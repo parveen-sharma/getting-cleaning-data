@@ -39,8 +39,8 @@ require(dplyr)
 require(tidyr)
 require(plyr)
 
-# working directory - wth unzipped data files
-setwd("C:/Users/Parveen/Desktop/r-prog/Getting_and_Cleaning_Data/week3/UCI HAR Dataset/")
+# working directory - wth unzipped data files 
+setwd("UCI HAR Dataset/")
 
 #step01 read data
 
